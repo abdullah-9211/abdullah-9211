@@ -1,6 +1,6 @@
 # Abdullah Umar
 
-Software engineer in Islamabad. I build backend systems in Go and AI agents in Python.
+Software engineer in Islamabad. I build backend systems in Go and AI agentic systems.
 
 ## What I work on
 
